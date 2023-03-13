@@ -1,9 +1,15 @@
-include <iostream>
+#include <iostream>
 
 using namespace std;
 
-int main(){
-cout << "HELP" << endl;
+int main() {
+	cout << "HELP" << endl;
+	cout << "HELP" << endl;
+	cout << "HELP" << endl;
+	cout << "HELP" << endl;
+	cout << "HELP" << endl;
 
-return 0;
+
+
+	return 0;
 }
